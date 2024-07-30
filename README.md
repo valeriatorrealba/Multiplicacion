@@ -20,6 +20,7 @@ Si el número ingresado es `3`, la salida en la consola debería ser:
 Factorial de 1 es: 1
 Factorial de 2 es: 2
 Factorial de 3 es: 6
+```
 
 ## Autor
 
